@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\bin\Debug\net7.0\test_a_15.DTO.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\bin\Debug\net7.0\test_a_15.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\bin\Debug\net7.0\test_a_15.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\refint\test_a_15.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\test_a_15.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\62\202304245222\test_a_15\test_a_15.DTO\obj\Debug\net7.0\ref\test_a_15.DTO.dll
